@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=NonRegistered
+comment1.params=
+comment1.target=NonRegistered()
+comment2.params=ic\ pNo\ g\ age\ add\ name\ d\ ins\ reg\ rDate\ rType
+comment2.target=NonRegistered(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ boolean,\ java.lang.String,\ java.lang.String)
+comment3.params=newRegDate
+comment3.target=void\ setRegDate(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getRegistrationDate()
+comment5.params=
+comment5.target=java.lang.String\ getRegistrationType()
+comment6.params=
+comment6.target=double\ calcBill()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
